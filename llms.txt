@@ -23,6 +23,9 @@
 - [R Panel Metal Roofing Forsyth Project Checklist](https://local-business-guides.github.io/jackson-metal-roofing-supply-forsyth/r-panel-metal-roofing-forsyth/): Get help planning R panel metal roofing Forsyth materials and accessories for your building in Forsyth, Georgia.
 - [Metal construction company Forsyth: Plan Your Project](https://local-business-guides.github.io/jackson-metal-roofing-supply-forsyth/metal-construction-company-forsyth/): Metal construction company Forsyth: get roofing materials, custom trims, and project guidance from a local supplier.
 
+## Newsroom
+- [Jackson Metal Roofing Supply Publishes Guide to Metal Roofing Macon](https://local-business-guides.github.io/jackson-metal-roofing-supply-forsyth/news/2026-10-26-jackson-metal-roofing-supply-publishes-guide-to-me/): Jackson Metal Roofing Supply has published a guide to metal roofing Macon, along with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-26)
+
 ## Pages
 - [Metal Roofing Macon in Forsyth, Georgia](https://local-business-guides.github.io/jackson-metal-roofing-supply-forsyth/): Get metal roofing materials, custom packages, and practical help for your project at our Forsyth location. Call +1478-994-2252.
 - [About Jackson Metal Roofing Supply](https://local-business-guides.github.io/jackson-metal-roofing-supply-forsyth/about/): About Jackson Metal Roofing Supply, Forsyth.
@@ -30,3 +33,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/jackson-metal-roofing-supply-forsyth/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/jackson-metal-roofing-supply-forsyth/news/rss.xml)

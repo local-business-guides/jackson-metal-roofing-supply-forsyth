@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/jackson-metal-roofing-supply-forsyth/sitemap.xml
+Sitemap: https://local-business-guides.github.io/jackson-metal-roofing-supply-forsyth/news-sitemap.xml
